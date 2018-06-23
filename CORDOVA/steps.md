@@ -1,3 +1,4 @@
+Module 1.   
 1. install the cordova CLI   
 2. create the app    
 3. add platforms    
@@ -6,6 +7,20 @@
 6. test the app    
 7. add plugin   
 8. set up the workshop files   
+
+Module 2. data storage strategy       
+1. explore different persistence mechanisms    
+2. Test the application with different persistence mechanisms    
+
+Module 3. Using native notification   
+1. add native dialog plugin  
+cordova plugin add cordova-plugin-dialogs    
+2. add extra tag in index.html   
+3. add extra code to "event registration" block in js/app.js    
+4. test. fresh and click help button   
+
+
+
 
 Following this: https://ccoenraets.github.io/cordova-tutorial/setup-files.html     
 https://cordova.apache.org/docs/en/latest/guide/cli/      
