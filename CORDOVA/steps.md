@@ -1,4 +1,4 @@
-Module 1.   
+Main step 1.   
 1. install the cordova CLI   
 2. create the app    
 3. add platforms    
@@ -8,17 +8,19 @@ Module 1.
 7. add plugin   
 8. set up the workshop files   
 
-Module 2. data storage strategy       
+Main step 2. data storage strategy       
 1. explore different persistence mechanisms    
 2. Test the application with different persistence mechanisms    
 
-Module 3. Using native notification   
+Main step 3. Using native notification   
 1. add native dialog plugin  
 cordova plugin add cordova-plugin-dialogs    
 2. add extra tag in index.html   
 3. add extra code to "event registration" block in js/app.js    
 4. test. fresh and click help button   
 
+Main step 4. Module 6. avoid 300ms click delay   
+1. In index.html, add <script src="lib/fastclick.js"></script>   
 
 
 
