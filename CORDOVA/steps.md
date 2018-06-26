@@ -21,6 +21,9 @@ cordova plugin add cordova-plugin-dialogs
 
 Main step 4. Module 6. avoid 300ms click delay   
 1. In index.html, add <script src="lib/fastclick.js"></script>   
+2. In app.js, register FastClick inside the "deviceready" event handler; FastClick.attach(document.body);      
+
+Main step 5. Module 7. Setting up a single-page application   
 
 
 
